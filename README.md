@@ -26,7 +26,7 @@ First result was very disappointed because unrecognizable images had been create
 
 ## Problems To Improve
 
-Mode collapsing would have occurred because the dataset contained a circular logo and a non-circular logo.
+Mode collapsing would have occurred because the dataset both contained a circular logo and a non-circular logo.
 
 Discriminator's loss value was very low whereas Generator's loss value is relatively high.
 
