@@ -20,9 +20,13 @@ I collected 1376 logo data from wikipedia with crawling. The Source Code is uplo
 
 I used DCGAN network which is stable to be learned.
 
-## augumentation
+## augmentation
 
 First result was very disappointed because unrecognizable images had been created. There were no significant differences when I changed Batch size and Learning rate. So I thought a lack of data was a problem. I augmented the data by turning the images upside down and turning left and right. Then I found the following result was improved.
+
+## Conclusion Example
+![image](https://user-images.githubusercontent.com/52408669/153812709-8bc39c61-8ccd-4fd7-b6b6-4d0ed217ac64.png)
+
 
 ## Problems To Improve
 
